@@ -7,7 +7,6 @@
 	android:layout_height="match_parent" 
 	android:orientation="vertical"
 	tools:context="com.hfad.bitsandpizzas.MainActivity"> 
-	<include  
-		layout="@layout/activity_toolbar"  android:id="@+id/toolbar" /> 
+	
 	<TextView  android:layout_width="wrap_content"  android:layout_height="wrap_content"  
 		android:text="Hello World!" /> </LinearLayout> 

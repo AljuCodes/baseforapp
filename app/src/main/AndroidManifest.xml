@@ -16,8 +16,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-		<activity android:name=".orderactivity"
-			android:label="@string/create_order">
+		<activity android:name=".secondqctivity"
+			android:label="secondact">
 		</activity>
     </application>
 
